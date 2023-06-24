@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Pushpendra Kushvaha 
-### I am a student currently pursuing my undergraduate in Computer Science and Engineering and a Full-Stack Java Developer 
+### Full-Stack Java Developer 
 - 📫 Reach Me : pushpendra7096@gmail.com 
 &nbsp; 
 &nbsp; 
